@@ -1,0 +1,57 @@
+{
+  "name": "lonewolf",
+  "owner": {
+    "name": "Lucky Ivanius",
+    "email": "luckzivanius@gmail.com"
+  },
+  "metadata": {
+    "description": "Build something meaningful. Launch it for real. Launch Kit by Lone Wolf takes a product from idea to first revenue.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "launchkit",
+      "description": "36 skills that take a product from idea to launch to first revenue: Learn, Idea, Build, Ship, Grow, Earn. Anti-slop by default.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/build/brand-design",
+        "./skills/build/build-ai-agent",
+        "./skills/build/build-mvp",
+        "./skills/build/clarify-intent",
+        "./skills/build/design-taste",
+        "./skills/build/frontend-design-guidelines",
+        "./skills/build/navigate-skills",
+        "./skills/build/number-formatting",
+        "./skills/build/page-load-animations",
+        "./skills/build/plan-before-code",
+        "./skills/build/product-review",
+        "./skills/build/retention-loop",
+        "./skills/build/roast-my-product",
+        "./skills/build/scaffold-project",
+        "./skills/build/security-review",
+        "./skills/build/validate-business-model",
+        "./skills/build/verify-against-intent",
+        "./skills/build/will-real-users-pay",
+        "./skills/earn/get-paid",
+        "./skills/earn/pricing",
+        "./skills/earn/revenue-review",
+        "./skills/grow/distribution-plan",
+        "./skills/grow/first-100-users",
+        "./skills/grow/landing-copy",
+        "./skills/grow/positioning",
+        "./skills/idea/competitive-landscape",
+        "./skills/idea/defi-market-research",
+        "./skills/idea/find-next-idea",
+        "./skills/idea/validate-idea",
+        "./skills/learn/founder-101",
+        "./skills/learn/learn",
+        "./skills/ship/apply-grant",
+        "./skills/ship/create-pitch-deck",
+        "./skills/ship/launch-checklist",
+        "./skills/ship/marketing-video",
+        "./skills/ship/video-craft"
+      ]
+    }
+  ]
+}

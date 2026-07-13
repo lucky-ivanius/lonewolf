@@ -1,0 +1,15 @@
+# local working material — never published with the skill repo
+.claude/
+assets/private/
+
+# node
+node_modules/
+dist/
+*.log
+
+# env
+.env
+.env*.local
+
+# os
+.DS_Store
