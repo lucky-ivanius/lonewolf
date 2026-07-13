@@ -15,13 +15,13 @@ Built around an explicit anti-slop bar. Every phase asks one question: **would t
 Via [skills.sh](https://skills.sh):
 
 ```bash
-npx skills add luckyivanius/lonewolf
+npx skills add lucky-ivanius/lonewolf
 ```
 
 Or as a Claude Code plugin:
 
 ```text
-/plugin marketplace add luckyivanius/lonewolf
+/plugin marketplace add lucky-ivanius/lonewolf
 /plugin install launchkit@lonewolf
 ```
 
@@ -121,9 +121,11 @@ It isn't:
 - A code generator (most of launching — positioning, pricing, distribution, retention — isn't code)
 - Financial or legal advice
 
+<!--
 ## Credits
 
 Skill architecture and several Build/Ship skills are curated, generalized ports from [Suiperpower](https://github.com/pivyme/suiperpower) by the PIVY team (MIT) — an excellent Sui-native original. Sui-specific material was removed or generalized; the Grow and Earn phases are original to Launch Kit.
+-->
 
 ## License
 
